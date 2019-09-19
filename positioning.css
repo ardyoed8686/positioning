@@ -1,0 +1,30 @@
+.box-1 {
+  position: fixed;
+  width: 150px;
+  height: 100px;
+  background: lightgray;
+  border: 2px solid black;
+  color: black;
+  top: 0%;
+  left: o%;
+  }
+
+  .box-2 {
+  position: relative;
+  width: 350px;
+  height: 200px;
+  background: lightgray;
+  border: 2px solid black;
+  top: 0%;
+  left: o%;
+  }
+
+  .box-3 {
+    position: absolute;
+    width: 150px;
+    height: 75px;
+    background: darkgray;
+    border: 2px solid black;
+    top: 0%;
+    left: o%;
+    }
